@@ -1,0 +1,126 @@
+@charset "utf-8";
+footer {
+  color: #FFFFFF;
+}
+.btn-social {
+  background-color: #17a2b8;
+}
+body {
+  background-size: cover;
+  background-position: 50% 50%;
+  background-image: -webkit-radial-gradient()rgba(255, 255, 255, 1.00) 40%, rgba(23, 162, 184, 1.00) 100%);
+  background-image: -moz-radial-gradient(rgba(255, 255, 255, 1.00) 40%, rgba(23, 162, 184, 1.00) 100%);
+  background-image: -o-radial-gradient(270deg, rgba(255, 255, 255, 1.00) 40%, rgba(23, 162, 184, 1.00) 100%);
+  background-image: radial-gradient(180deg, rgba(255, 255, 255, 1.00) 40%, rgba(23, 162, 184, 1.00) 100%);
+}
+h5 {
+  font-family: kaushan-script;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22pt;
+  color: #000000;
+}
+.text-box {
+  background-size: cover;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  background-color: #17A2B8;
+  border-radius: 20px;
+  -webkit-box-shadow: 0px 0px 20px 10px #EBEBEB;
+  box-shadow: 0px 0px 20px 10px #EBEBEB;
+  color: #FFFFFF;
+  border: medium solid #000000;
+}
+.topic-photo {
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 20px 10px #EBEBEB;
+    box-shadow: 0px 0px 20px 10px #EBEBEB;
+    margin-top: 0px;
+    margin-right: 0px;
+    border: medium solid #000000;
+}
+h1 {
+  font-family: kaushan-script;
+  font-style: normal;
+  font-weight: 400;
+  color: #17a2b8;
+  font-size: x-large;
+}
+h2 {
+  font-family: kaushan-script;
+  font-style: normal;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32pt;
+}
+.title-text {
+  /* background-position: 50% 50%;
+    background-image: -webkit-radial-gradient()rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
+    background-image: -moz-radial-gradient(rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
+    background-image: -o-radial-gradient(270deg,rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
+    background-image: radial-gradient(180deg,rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%); */
+  margin-top: 106px;
+}
+.carousel {}
+.carousel-caption {
+  color: black;
+}
+.profile-photo {
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 0px 20px 10px #FFFFFF;
+  box-shadow: 0px 0px 20px 10px #FFFFFF;
+  border: medium solid #000000;
+}
+.ship-photo {
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 32px;
+}
+.early_access_logo {
+  border-radius: 20%;
+  border: medium solid #000000;
+  -webkit-box-shadow: 0px 0px 20px 10px #FFFFFF;
+  box-shadow: 0px 0px 20px 10px #FFFFFF;
+  margin-top: 10px;
+}
+.btn-rnd-social {
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 0px 4px 4px #FFFFFF;
+  box-shadow: 0px 0px 4px 4px #FFFFFF;
+  background-color: #9D9D9D;
+}
+.portfolio-box {
+  -webkit-box-shadow: 0px 0px 20px 10px #FFFFFF;
+  box-shadow: 0px 0px 20px 10px #FFFFFF;
+}
+h6 {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  text-indent: 0.25in;
+}
+h3, h4 {
+  margin-bottom: 0.5rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  line-height: 1.2;
+}
+.body-text {
+  color: #FFFFFF;
+  font-weight: 500;
+}
+.btn-adjust {
+  margin-top: 10px;
+}
+.topic-photo-right {
+    margin-left: 30px;
+}
+.topic-photo-left {
+    margin-right: 30px;
+    margin-left: -50px;
+}
