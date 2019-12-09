@@ -14,7 +14,7 @@ body {
   background-image: radial-gradient(180deg, rgba(255, 255, 255, 1.00) 40%, rgba(23, 162, 184, 1.00) 100%);
 }
 h5 {
-  font-family: kaushan-script;
+  font-family: 'Kaushan Script', cursive;
   font-style: normal;
   font-weight: 400;
   font-size: 22pt;
@@ -42,25 +42,20 @@ h5 {
     border: medium solid #000000;
 }
 h1 {
-  font-family: kaushan-script;
+  font-family: 'Kaushan Script', cursive;
   font-style: normal;
   font-weight: 400;
   color: #17a2b8;
   font-size: x-large;
 }
 h2 {
-  font-family: kaushan-script;
+  font-family: 'Kaushan Script', cursive;
   font-style: normal;
   font-weight: 400;
   color: #000000;
   font-size: 32pt;
 }
 .title-text {
-  /* background-position: 50% 50%;
-    background-image: -webkit-radial-gradient()rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
-    background-image: -moz-radial-gradient(rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
-    background-image: -o-radial-gradient(270deg,rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%);
-    background-image: radial-gradient(180deg,rgba(255,255,255,1.00) 40%,rgba(23,162,184,1.00) 100%); */
   margin-top: 106px;
 }
 .carousel {}
